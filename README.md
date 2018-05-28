@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a Binary classification project that predicts whether the length of a NBA player will be more than 5 years or not using his preformance metrics.
+The aim of this project is to predict the selling price of cars using the k-Nearest Neighbors algorithm. Thus, the target is to find the optimal number of nearest neighbors(k) and the features that best predict our target variables. The dataset contains values for various features of the cars and was collected in 1985.
 
 ## Data
 
